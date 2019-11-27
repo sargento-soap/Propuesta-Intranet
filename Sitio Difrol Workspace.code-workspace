@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "SitioDifrol",
+			"path": "."
+		},
+		{
+			"path": "/var/www/html/SitioDifrolAdmin"
+		}
+	],
+	"settings": {}
+}
